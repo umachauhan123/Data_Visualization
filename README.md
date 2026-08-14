@@ -8,7 +8,6 @@ I created these projects to get practical experience with real-world style datas
 
 Rather than only working with theory, I wanted to practice building dashboards where someone can look at the data and quickly understand what is happening.
 
----
 
 ## 🛠️ Tools I Used
 
@@ -19,7 +18,6 @@ Rather than only working with theory, I wanted to practice building dashboards w
 
 I also used different charts, KPI cards, slicers, filters, and tables depending on what I wanted to understand from the data.
 
----
 
 ## 📁 Projects
 
@@ -45,7 +43,6 @@ The dashboard includes **KPI cards, slicers, line charts, bar charts, donut char
 
 This project helped me practice **DAX, data visualization, dashboard designing, and interactive filtering** in Power BI.
 
----
 
 ### ✈️ Airline Analytics Dashboard
 
@@ -57,7 +54,6 @@ I used different visualizations and KPIs to make the data easier to understand a
 
 While working on this dashboard, I got more comfortable with **Power BI visuals, filters, dashboard layouts, and presenting data in a simple way**.
 
----
 
 ### 💰 Expense Summary – Excel
 
@@ -67,7 +63,6 @@ This is an Excel-based analysis project where I worked with expense-related data
 
 It helped me practice **Excel-based data analysis, calculations, organizing data, and creating useful summaries**.
 
----
 
 ## 💡 What I Learned From These Projects
 
@@ -90,7 +85,6 @@ Through these projects, I have improved my understanding of:
 
 I am still learning and improving, so I plan to keep adding more projects to this repository as I explore new tools and techniques.
 
----
 
 ## 🚀 What's Next?
 
@@ -105,7 +99,6 @@ I would like to add more projects using:
 
 I also want to explore more advanced Power BI features such as **drill-throughs, bookmarks, tooltips, and more advanced DAX calculations**.
 
----
 
 ## 👩‍💻 About Me
 
@@ -123,7 +116,6 @@ I'm currently building my skills and portfolio through hands-on projects in **Da
 **Database:** MySQL
 **Other:** DAX, Power Query, Dashboard Development
 
----
 
 ⭐ **This repository is a part of my learning journey in Data Analytics. I'm continuously learning, building, and improving my projects.**
 
